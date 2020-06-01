@@ -88,9 +88,10 @@ npm run build:prod
 
 ## 其它
 
-- 如需找到一些相应ebub电子书进行上传，这里主要有推荐几个毕竟好的网站，可以根据需要自行下载。
+- 如需找到一些相应ebub电子书进行上传，这里主要有推荐几个比较好的网站，可以根据需要自行下载。
 [epubw](https://epubw.com/)， [超级书库](https://shuayouxi.cn/)，[鸠摩搜书](https://www.jiumodiary.com/)。
 - 后端访问API可以在`.env.production`文件自行修改。
+- 后端地址在  [校园读书后端](https://github.com/lin-shaojie/vuebook_background) 可以进行下载。
 
 ```bash
 # 预览发布环境效果
